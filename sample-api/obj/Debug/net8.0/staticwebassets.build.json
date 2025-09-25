@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z1IrU+0zmrqDhuGp6gNPJLHuvpWpGdNEVUGvS/8/NiQ=",
+  "Source": "sample-api",
+  "BasePath": "_content/sample-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
